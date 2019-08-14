@@ -1,7 +1,7 @@
 {
   "policies": [
       {
-        "id": 1,
+        "pid": 1,
         "pname": "Basic",
         "pdesc": "lalala",
         "premium": "350000",
