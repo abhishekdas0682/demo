@@ -17,8 +17,25 @@
         "coverage": "350",
         "sdate": "2019",
         "edate": "2059"
+        },
+        {
+        "pid": 3,
+        "pname": "Supreme",
+        "pdesc": "lalalalalalala",
+        "premium": "450000",
+        "coverage": "400",
+        "sdate": "2019",
+        "edate": "2079"
+        },
+        {
+        "pid": 4,
+        "pname": "Ultimate",
+        "pdesc": "bababa",
+        "premium": "500000",
+        "coverage": "500",
+        "sdate": "2019",
+        "edate": "2099"
         }
     ]
 }
-   
    
