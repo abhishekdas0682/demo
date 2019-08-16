@@ -29,18 +29,9 @@
   {
     "pid": 4,
     "pname": "Ultimate",
-    "pdesc": "lalalalalalalalala",
+    "pdesc": "bababa",
     "premium": "500000",
     "coverage": "500",
-    "sdate": "2019",
-    "edate": "2099"
-  },
-    {
-    "pid": 5,
-    "pname": "Ultimate2",
-    "pdesc": "lalalalalalalalala",
-    "premium": "550000",
-    "coverage": "550",
     "sdate": "2019",
     "edate": "2099"
   }
