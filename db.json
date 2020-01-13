@@ -43,31 +43,25 @@
   ],
   "customers": [
     {
-      "user_id": "C89765",
-      "user_name": "Baba Yagi",
-      "email_id": "babababa@gmail.com",
-      "contact_number": 1234567890,
-      "address": "Bangalore",
-      "gender": "M",
-      "request_id": 1
+      "token_id": "C89765",
+      "name": "Baba Yagi",
+      "npi": "babababa@gmail.com",
+      "phone": 1234567890,
+      "address": "Bangalore"
     },
     {
-      "user_id": "C89764",
-      "user_name": "Abraham",
-      "email_id": "abraham@gmail.com",
-      "contact_number": 1244567890,
-      "address": "Bangalore",
-      "gender": "M",
-      "request_id": 1
+      "token_id": "C89766",
+      "name": "Boba Fett",
+      "npi": "bstar@gmail.com",
+      "phone": 7862910209,
+      "address": "Delhi"
     },
     {
-      "user_id": "C89763",
-      "user_name": "Rawal",
-      "email_id": "rawal@gmail.com",
-      "contact_number": 1244667890,
-      "address": "Bangalore",
-      "gender": "M",
-      "request_id": 1
+      "token_id": "C89767",
+      "name": "Ghostwalker",
+      "npi": "gbaba@gmail.com",
+      "phone": 9876543210,
+      "address": "Mumbai"
     }
   ],
   "profile": {
